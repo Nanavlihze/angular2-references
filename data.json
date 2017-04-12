@@ -1,0 +1,188 @@
+{
+    "USD_Libor": {
+        "type": "LIVE",
+        "region": "Global",
+        "id": "IRCurveGroup/USD_LiborLIVEGlobal/2017-04-03T15:49:55.312Z",
+        "curves": {
+            "LCH_MODEL6": {
+                "id": "Curve/USD-LIBOR-3M-LCH_MODEL6/2017-04-03T15:49:312Z",
+                "tenor": "3M",
+                "index": "LIBOR",
+                "underlyings": {
+                    "USD_MM_3M_LCH_MODEL_6": {
+                        "name": "",
+                        "tenor": "3M",
+                        "productType": "",
+                        "fixProductType": "MM",
+                        "productId": "123",
+                        "quote": "0.0111956",
+                        "convexity": "0"
+                    },
+                    "USD_Future_42844.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "42844.0",
+                        "productType": "",
+                        "fixProductType": "Future",
+                        "productId": "123",
+                        "quote": "98.7856",
+                        "convexity": "8.99713"
+                    },
+                    "USD_Future_42872.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "42872.0",
+                        "productType": "",
+                        "fixProductType": "Future",
+                        "productId": "123",
+                        "quote": "98.7377",
+                        "convexity": "1.92548"
+                    },
+                    "USD_Bond_43524.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "4Y",
+                        "productType": "",
+                        "fixProductType": "Bond",
+                        "productId": "123",
+                        "quote": "99.5384",
+                        "convexity": "0"
+                    }
+                }
+            },
+            "CME_MODEL6": {
+                "id": "Curve/USD-LIBOR-3M-CME_MODEL6/2017-04-03T15:49:312Z",
+                "tenor": "3M",
+                "index": "LIBOR",
+                "underlyings": {
+                    "USD_MM_3M_LCH_MODEL_6": {
+                        "name": "",
+                        "tenor": "3M",
+                        "productType": "",
+                        "fixProductType": "MM",
+                        "productId": "123",
+                        "quote": "0.0111956",
+                        "convexity": "0"
+                    },
+                    "USD_Future_42844.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "42844.0",
+                        "productType": "",
+                        "fixProductType": "Future",
+                        "productId": "123",
+                        "quote": "98.7856",
+                        "convexity": "8.99713"
+                    },
+                    "USD_Future_42872.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "42872.0",
+                        "productType": "",
+                        "fixProductType": "Future",
+                        "productId": "123",
+                        "quote": "98.7377",
+                        "convexity": "1.92548"
+                    },
+                    "USD_Bond_43524.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "4Y",
+                        "productType": "",
+                        "fixProductType": "Bond",
+                        "productId": "123",
+                        "quote": "99.5384",
+                        "convexity": "0"
+                    }
+                }
+            }
+        }
+    },
+    "USD_Libor_Basis": {
+        "type": "LIVE",
+        "region": "Global",
+        "id": "IRCurveGroup/USD_LiborLIVEGlobal/2017-04-03T15:49:55.312Z",
+        "curves": {
+            "LCH_MODEL6": {
+                "id": "Curve/USD-LIBOR-3M-LCH_MODEL6/2017-04-03T15:49:312Z",
+                "tenor": "3M",
+                "index": "LIBOR",
+                "underlyings": {
+                    "USD_MM_3M_LCH_MODEL_6": {
+                        "name": "",
+                        "tenor": "3M",
+                        "productType": "",
+                        "fixProductType": "MM",
+                        "productId": "123",
+                        "quote": "0.0111956",
+                        "convexity": "0"
+                    },
+                    "USD_Future_42844.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "42844.0",
+                        "productType": "",
+                        "fixProductType": "Future",
+                        "productId": "123",
+                        "quote": "98.7856",
+                        "convexity": "8.99713"
+                    },
+                    "USD_Future_42872.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "42872.0",
+                        "productType": "",
+                        "fixProductType": "Future",
+                        "productId": "123",
+                        "quote": "98.7377",
+                        "convexity": "1.92548"
+                    },
+                    "USD_Bond_43524.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "4Y",
+                        "productType": "",
+                        "fixProductType": "Bond",
+                        "productId": "123",
+                        "quote": "99.5384",
+                        "convexity": "0"
+                    }
+                }
+            },
+            "CME_MODEL6": {
+                "id": "Curve/USD-LIBOR-3M-CME_MODEL6/2017-04-03T15:49:312Z",
+                "tenor": "3M",
+                "index": "LIBOR",
+                "underlyings": {
+                    "USD_MM_3M_LCH_MODEL_6": {
+                        "name": "",
+                        "tenor": "3M",
+                        "productType": "",
+                        "fixProductType": "MM",
+                        "productId": "123",
+                        "quote": "0.0111956",
+                        "convexity": "0"
+                    },
+                    "USD_Future_42844.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "42844.0",
+                        "productType": "",
+                        "fixProductType": "Future",
+                        "productId": "123",
+                        "quote": "98.7856",
+                        "convexity": "8.99713"
+                    },
+                    "USD_Future_42872.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "42872.0",
+                        "productType": "",
+                        "fixProductType": "Future",
+                        "productId": "123",
+                        "quote": "98.7377",
+                        "convexity": "1.92548"
+                    },
+                    "USD_Bond_43524.0_LCH_MODEL6": {
+                        "name": "",
+                        "tenor": "4Y",
+                        "productType": "",
+                        "fixProductType": "Bond",
+                        "productId": "123",
+                        "quote": "99.5384",
+                        "convexity": "0"
+                    }
+                }
+            }
+        }
+    }
+}
